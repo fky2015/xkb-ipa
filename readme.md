@@ -2,6 +2,8 @@
 
 IPA layout following https://ipa.typeit.org/.
 
+![IPA layout](./layout.png)
+
 ## Installation
 
 Clone this repository:
@@ -57,7 +59,7 @@ Add the following contents into the appropriate sections of `/usr/share/X11/xkb/
 ...
 ```
 
-## Credit
+## Credits
 
 - https://github.com/frekky/xkb-ipa
 - https://ipa.typeit.org/
